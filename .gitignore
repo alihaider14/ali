@@ -273,3 +273,6 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
